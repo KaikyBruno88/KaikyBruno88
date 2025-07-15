@@ -3,94 +3,82 @@
 ![Flying Studio Ghibli GIF by Luigi Salas - Motion Designer](https://github.com/user-attachments/assets/926c306d-dc78-468f-acf0-84906d013705)
 
 ---
-Olá! me chamo Kaiky, tenho como principais linguagens e estudos; 
-* Java
-* Java Script
-* React
-* Git
-* SQL
 
+Olá! Me chamo **Kaiky** 👋  
+Sou apaixonado por tecnologia, arte e desenvolvimento.  
+Atualmente estudo e desenvolvo projetos utilizando as seguintes tecnologias:
+
+- ⚙️ Java
+- 🧠 JavaScript
+- ⚛️ React
+- 🔧 Git
+- 🗃️ SQL
 
 <br clear="both">
 
-<h2 align="center">MonoKai</h2>
- 
- 
+<h2 align="center">✨ MonoKai ✨</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="YouTube" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="40" alt="CodeSandbox" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="40" alt="Codepen" /></a>
 </div>
- <br> <br>
 
- 
+---
+
+### 💻 Tecnologias que uso
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL" />
 </div>
- <br> <br>
- 
+
+<br>
+
+### 🎨 Ferramentas e Criatividade
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="GIMP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" />
 </div>
- <br> <br>
- 
 
-<h3 align="center">Stats</h3>
- <br>
- 
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaikyBruno88&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaikyBruno88&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaikyBruno88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaikyBruno88&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" height="150" />
 </div>
- <br> <br>
- 
-![SoulEater](https://github.com/user-attachments/assets/adca36f6-efbd-4959-9df0-6aa77595386a)
 
+---
 
-![Frieren](https://otakuusamagazine.com/wp-content/uploads/2024/03/frieren-hiatus.jpg)
+### 📁 Projetos e Experimentos
 
-Aqui você encontrará meus projetos e experimentos com programação. 👨‍💻
+Aqui você encontrará meus projetos, estudos e experimentos com programação. Seja bem-vindo(a)! 👨‍💻
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/adca36f6-efbd-4959-9df0-6aa77595386a" width="70%" />
+  <br><br>
+  <img src="https://otakuusamagazine.com/wp-content/uploads/2024/03/frieren-hiatus.jpg" width="50%" />
+</div>
 
-###
- 
-
-
-
+---
 
 <!--
-**KaikyBruno88/KaikyBruno88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KaikyBruno88/KaikyBruno88** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente trabalhando em ...
+- 🌱 Estudando ...
+- 🤝 Colaborando com ...
+- 📫 Contato: ...
+- ⚡ Curiosidade: ...
 -->
