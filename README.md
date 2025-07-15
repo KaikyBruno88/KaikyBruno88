@@ -69,6 +69,11 @@ Olá! me chamo Kaiky, tenho como principais linguagens e estudos;
 ![SoulEater](https://github.com/user-attachments/assets/adca36f6-efbd-4959-9df0-6aa77595386a)
 
 
+![Frieren](https://otakuusamagazine.com/wp-content/uploads/2024/03/frieren-hiatus.jpg)
+
+Aqui você encontrará meus projetos e experimentos com programação. 👨‍💻
+
+
 ###
  
 
