@@ -63,6 +63,10 @@ Atualmente estudo e desenvolvo projetos com foco em:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaikyBruno88&layout=compact&langs_count=5&theme=tokyonight&hide_border=false" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://i.makeagif.com/media/4-15-2022/_antJi.gif" width="300" alt="Zim GIF" />
+</p>
+
 ---
 
 ### 📁 Projetos e Experimentos
