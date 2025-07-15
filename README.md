@@ -1,7 +1,7 @@
 <h1 align="center">🌿 Suave 🍃</h1>
 
 <p align="center">
-  <img src="https://pa1.aminoapps.com/5670/bc8b9fd7d8648d6a3d5b27c0399bb66e47fec462_00.gif" width="70%" alt="Studio Ghibli flying gif" />
+  <img src="https://giffiles.alphacoders.com/201/201338.gif" width="70%" alt="Studio Ghibli flying gif" />
 </p>
 
 ---
