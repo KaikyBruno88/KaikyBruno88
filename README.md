@@ -27,6 +27,11 @@ Atualmente estudo e desenvolvo projetos com foco em:
   <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="36" alt="YouTube" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="36" alt="CodeSandbox" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="36" alt="Codepen" /></a>
+
+<p align="center">
+  <img src="https://media.tenor.com/SRDuFks8igEAAAAj/kirby.gif" width="70%" alt="Studio Ghibli flying gif" />
+</p>
+  
 </p>
 
 ---
