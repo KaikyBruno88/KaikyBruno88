@@ -74,7 +74,7 @@ Atualmente estudo e desenvolvo com:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/adca36f6-efbd-4959-9df0-6aa77595386a" width="70%" alt="Soul Eater aesthetic" />
   <br><br>
-  <img src="https://uploads.jovemnerd.com.br/wp-content/uploads/2024/11/frieren_manga_pausa__q61ytz2pi.jpg" width="50%" alt="Frieren manga hiatus" />
+
   <br><br>
   <img src="https://i.redd.it/colored-this-manga-panel-of-rei-ayanami-v0-ghaimlp4j75a1.jpg?width=736&format=pjpg&auto=webp&s=bdfa13182aa7f6ced6d1a4d6e6802a1627992448" width="50%" alt="Rei Ayanami colored manga panel" />
 </p>
