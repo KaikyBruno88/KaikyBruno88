@@ -69,7 +69,8 @@ Atualmente estudo e desenvolvo projetos com foco em:
 </p>
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/4-15-2022/_antJi.gif" width="300" alt="Zim GIF" />
+  <!-- <img src="https://i.makeagif.com/media/4-15-2022/_antJi.gif" width="300" alt="Zim GIF" />  -->
+ <img src="https://media1.tenor.com/m/cSXPy5lyAKkAAAAd/zenless-zone-zero-miyabi.gif" /> 
 </p>
 
 ---
